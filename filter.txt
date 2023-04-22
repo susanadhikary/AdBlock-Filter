@@ -1,0 +1,3 @@
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||ads.youtube.com^
