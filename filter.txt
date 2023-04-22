@@ -37,11 +37,6 @@
 ||widgets.pinterest.com^
 ||events.reddit.com^
 ||analytics.tiktok.com^
-||an.facebook.com^
-||an.facebook.com^
-||an.facebook.com^
-||an.facebook.com^
-||an.facebook.com^
 
 
 
